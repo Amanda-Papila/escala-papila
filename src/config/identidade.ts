@@ -3,7 +3,7 @@
 // public/logo.png (ou deixe logo como null para mostrar só o nome).
 
 export const identidade = {
-  nome: "Meu Restaurante",
+  nome: "Papila Deli",
   // Cor dos botões e do cabeçalho (formato #RRGGBB)
   corPrincipal: "#1F3A5F",
   // Cor de fundo das páginas
