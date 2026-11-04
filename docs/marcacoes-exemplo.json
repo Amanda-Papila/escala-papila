@@ -1,0 +1,12 @@
+[
+  {"cpf":"12345678901","data":"2026-11-04","entrada":"11:23","saida_intervalo":"15:35","volta_intervalo":"17:51","saida":"23:37"},
+  {"cpf":"23456789012","data":"2026-11-04","entrada":"10:52","saida_intervalo":"15:38","volta_intervalo":"17:51","saida":"23:32"},
+  {"cpf":"34567890123","data":"2026-11-04","entrada":"10:59","saida_intervalo":null,"volta_intervalo":null,"saida":"16:21"},
+  {"cpf":"67890123456","data":"2026-11-04","entrada":"18:00","saida_intervalo":null,"volta_intervalo":null,"saida":"23:30"},
+  {"cpf":"89012345678","data":"2026-11-04","entrada":"18:00","saida_intervalo":null,"volta_intervalo":null,"saida":"23:31"},
+  {"cpf":"12345678901","data":"2026-11-05","entrada":"10:55","saida_intervalo":"15:32","volta_intervalo":"18:00","saida":"23:35"},
+  {"cpf":"23456789012","data":"2026-11-05","entrada":"10:59","saida_intervalo":"15:40","volta_intervalo":"17:59","saida":"23:33"},
+  {"cpf":"34567890123","data":"2026-11-05","entrada":"10:54","saida_intervalo":null,"volta_intervalo":null,"saida":"16:17"},
+  {"cpf":"67890123456","data":"2026-11-05","entrada":"17:55","saida_intervalo":null,"volta_intervalo":null,"saida":"23:40"},
+  {"cpf":"89012345678","data":"2026-11-05","entrada":"18:29","saida_intervalo":null,"volta_intervalo":null,"saida":"23:32"}
+]
