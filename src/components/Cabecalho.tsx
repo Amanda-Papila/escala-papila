@@ -18,12 +18,13 @@ export function Cabecalho() {
           <Image
             src={identidade.logo}
             alt={identidade.nome}
-            width={36}
-            height={36}
-            className="h-9 w-9 rounded-md bg-white object-contain p-0.5"
+            width={44}
+            height={44}
+            priority
+            className="h-11 w-11 rounded-full bg-white object-contain p-1 shadow-sm"
           />
         ) : null}
-        <span className="text-lg font-bold">{identidade.nome}</span>
+        <span className="text-xl font-bold tracking-tight">{identidade.nome}</span>
       </div>
       <nav className="mx-auto flex max-w-3xl gap-1 overflow-x-auto px-2 pb-2">
         {menu.map((item) => {
@@ -33,7 +34,7 @@ export function Cabecalho() {
               key={item.href}
               href={item.href}
               className={`whitespace-nowrap rounded-lg px-3 py-2 text-sm font-semibold ${
-                ativo ? "bg-white/20" : "hover:bg-white/10"
+                ativo ? "bg-white text-[var(--cor-principal)] shadow-sm" : "text-white/90 active:bg-white/15"
               }`}
             >
               {item.rotulo}
